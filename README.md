@@ -70,8 +70,8 @@ O sistema segue um fluxo simples de CRUD pelo terminal:
 ## Estrutura do projeto
 
 ```
-cadastro-pessoas/
-├── main.py        # Script principal
+sistema-cadastro-pessoas/
+├── cadastro.py    # Script principal
 ├── people.json    # Dados persistidos (gerado automaticamente)
 └── README.md      # Documentação
 ```
